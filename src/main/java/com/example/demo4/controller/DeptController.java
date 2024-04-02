@@ -13,6 +13,7 @@ import com.example.demo4.vo.DeptVo;
 @Controller
 public class DeptController {
 
+    //여기도 수정됨
     @Autowired
     DeptDao deptDao;
 
